@@ -27,3 +27,12 @@ Look At "A Dashing Knight" for a finalized prototype!!
 
 # Contributing
 Feel free to fork this project and make improvements! Pull requests are welcome for bug fixes, new features, or optimizations.
+
+# Credits
+Development: Daniel Kim
+
+Engine: Godot Engine
+
+# Assets
+All used from: https://pixelfrog-assets.itch.io/pixel-adventure-1?download
+
