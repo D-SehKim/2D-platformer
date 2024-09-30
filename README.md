@@ -17,9 +17,12 @@ Clone or download this repository.
 Run the project to play the game.
 
 # Future Plans
-~~Adding new levels with increasing difficulty.
-Implementing enemies and collectibles.
-Improving player movement physics for more fluid gameplay.~~
+~~Adding new levels with increasing difficulty.~~
+
+~~Implementing enemies and collectibles.~~
+
+~~Improving player movement physics for more fluid gameplay.~~
+
 Look At "A Dashing Knight" for a finalized prototype!!
 
 # Contributing
